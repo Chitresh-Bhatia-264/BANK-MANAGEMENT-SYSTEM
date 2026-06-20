@@ -36,16 +36,16 @@ It simulates real-world banking operations like account creation, login, deposit
 
 ##  Project Structure
 Bank Management System/
-│── database.py
-│── tk_backend.py
-|── bank.py
-|── customer.py
-|── main.py
-|── register.py
-│── frontend_tkinter.py
-│── .env
-│── .gitignore
-│── README.md
+- │── database.py
+- │── tk_backend.py
+- |── bank.py
+- |── customer.py
+- |── main.py
+- |── register.py
+- │── frontend_tkinter.py
+- │── .env
+- │── .gitignore
+- │── README.md
 
 
 
@@ -69,15 +69,15 @@ CREATE DATABASE banking system;
 python frontend_tkinter.py
 
 ## Security Features
-Sensitive credentials stored in .env file
-Parameterized SQL queries to prevent SQL injection
+- Sensitive credentials stored in .env file
+- Parameterized SQL queries to prevent SQL injection
 
 ## Future Improvements
-Transaction history system
-Admin dashboard
-Email/OTP verification
-Interest calculation module
-ATM simulation mode
+- Transaction history system
+- Admin dashboard
+- Email/OTP verification
+- Interest calculation module
+- ATM simulation mode
 
 
 ## Author
@@ -87,10 +87,10 @@ GitHub: https://github.com/Chitresh-Bhatia-264
 
 
 ## Project Highlights
-Real-world banking simulation
-Database-driven application
-Secure authentication system
-Clean modular Python architecture
+- Real-world banking simulation
+- Database-driven application
+- Secure authentication system
+- Clean modular Python architecture
 
 
 ## License
